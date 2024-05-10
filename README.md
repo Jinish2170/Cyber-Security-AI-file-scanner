@@ -66,12 +66,8 @@ If you wish to train a custom machine learning model:
 
 Contributions to DariusAI are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
+For any inquiries or feedback, please contact [Jinish Kathiriya] at [jinishkathiriya@gmail.com].
 
 ---

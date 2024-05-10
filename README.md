@@ -1,6 +1,4 @@
 # Cyber-Security-AI-file-scanner
-Certainly! Here's the corrected structure for the README file content:
-
 ---
 
 # DariusAI - Cybersecurity File Scanner
@@ -77,5 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
 
 ---
-
-This structure provides a clear and concise overview of the DariusAI project, its features, installation instructions, usage guidelines, and other relevant details. Feel free to customize it further based on your preferences and project requirements.
